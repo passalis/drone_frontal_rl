@@ -38,3 +38,7 @@ If you use this code in your work please cite the following paper:
 
 
 Also, check my [website](http://users.auth.gr/passalis) for more projects and stuff!
+
+
+This project has received funding from the European Union’s Horizon 2020 research and innovation programme under grant agreement No 731667 (MULTIDRONE).
+
